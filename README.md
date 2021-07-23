@@ -2,7 +2,7 @@
  
  <div>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=curea16&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curea16&layout=compact&langs_count=5&theme=synthwave"/>
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curea16&layout=compact&langs_count=5&theme=synthwave"/>
 </div>
   
 <div><br>
