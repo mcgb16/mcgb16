@@ -13,7 +13,8 @@
 
 ## Sobre mim 🤗
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas 
-- 🐍 Amante de python 
+- 🐍 Amante de python
+- 🎮 Viciado em video-games
 
 ##
 
