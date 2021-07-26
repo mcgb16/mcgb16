@@ -23,9 +23,3 @@
   <a href="https://instagram.com/matcorrea16" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=purple" target="_blank"></a>
   
 </div>
-
-## Visitas no perfil! 🧐
-
- <div align="center">
-  <img alingn="center" src="https://profile-counter.glitch.me/curea16/count.svg" />
-</div>
