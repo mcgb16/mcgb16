@@ -2,7 +2,7 @@
  
  <div>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=mathor16&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathor16&layout=compact&langs_count=5&theme=synthwave"/>
+  
 </div>
     <img align="right" width="200" height="200" src="https://media.giphy.com/media/phv2gHFFXPE0ibT2lW/giphy.gif">
 <div><br>
