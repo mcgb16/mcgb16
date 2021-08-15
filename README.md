@@ -14,7 +14,6 @@
 
 ## Sobre mim 🤗
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas 
-- 🐍 Amante de python
 - 🎮 Viciado em video-games
 - 🔨 Sim, meu nick é uma referência ao personagem Thor
 
