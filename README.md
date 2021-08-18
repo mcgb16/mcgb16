@@ -13,7 +13,7 @@
 
 
 ## Sobre mim 🤗
-- 💻 Estudante de Análise e Desenvolvimento de Sistemas 
+- 💻 Aprendendo Análise e Desenvolvimento de Sistemas 
 - 🎮 Viciado em video-games
 - 🔨 Sim, meu nick é uma referência ao personagem Thor
 
