@@ -19,7 +19,7 @@ class Poinc:
             'Python', 'CSS', 'HTML', 'AWS', 'SQL', 'Microsoft Office', 'Linux']
 
     def about(self):
-        print("Hi guys! I'm new to this career, and my biggest goal is to work with cybersecurity.")
+        print("Hi guys! I'm new to this career, and my biggest goal is to work with cybersecurity and/or development.")
 
     def routine(self):
         print('Well, on my days I use to study, read, practice and work on my internship.')
@@ -32,6 +32,9 @@ class Poinc:
 
 
 me = Poinc()
+me.about()
+me.routine()
+me.hobbies()
 me.thank_you()
 
 }
