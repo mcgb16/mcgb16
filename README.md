@@ -16,13 +16,13 @@ class Poinc:
         self.knowledge = ['Cybersecurity Fundamentals',
                           'Hardware', 'Network Protocols', 'Cloud']
         self.tools_and_languages = [
-            'Python', 'CSS', 'HTML', 'AWS', 'SQL', 'Microsoft Office', 'Linux']
+            'Python', 'CSS', 'HTML', 'AWS', 'SQL', 'Microsoft Office', 'Linux', 'Windows']
 
     def about(self):
         print("Hi guys! I'm new to this career, and my biggest goal is to work with cybersecurity and/or development.")
 
     def routine(self):
-        print('Well, on my days I use to study, read, practice and work on my internship.')
+        print('Well, on my days I use to study, read and practice a lot.')
 
     def hobbies(self):
         print('I really love to play videogames, especially in my computer, but I workout and read as well.')
