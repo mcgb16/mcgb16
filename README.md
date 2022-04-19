@@ -1,43 +1,10 @@
 # Hello there! 🌌
 
-[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+# Readme in progress
 
-class Poinc:
-    def __init__(self):
-        self.name = 'Matheus Corrêa'
-        self.nacionality = 'Brazilian'
-        self.age = '22'
-        self.language_spoken = ['pt_BR', 'en_US']
-        self.knowledge = ['Cybersecurity Fundamentals',
-                          'Hardware', 'Network Protocols', 'Cloud']
-        self.tools_and_languages = [
-            'Python', 'CSS', 'HTML', 'AWS', 'SQL', 'Microsoft Office', 'Linux', 'Windows']
-
-    def about(self):
-        print("Hi guys! I'm new to this career, and my biggest goal is to work with cybersecurity and/or development.")
-
-    def routine(self):
-        print('Well, on my days I use to study, read and practice a lot.')
-
-    def hobbies(self):
-        print('I really love to play videogames, especially in my computer, but I workout and read as well.')
-
-    def thank_you(self):
-        print('Thanks for droping by, hope you find something interesting here. If you do, please let me know.')
-
-
-me = Poinc()
-me.about()
-me.routine()
-me.hobbies()
-me.thank_you()
-
-}
 ```
 
 ## Favorite Projects 📂
