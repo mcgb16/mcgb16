@@ -42,12 +42,12 @@ print(mcgb.self_presentation())
 
 ```
 ## Knowledge 💾
-
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
 ## Favorite Projects 📂
 
 <a href="https://github.com/mcgb16/mini-game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=poinc16&repo=mini-game&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="mini-game" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mcgb16&repo=mini-game&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="mini-game" />
 </a>
 
 ## Be in Touch 📱
