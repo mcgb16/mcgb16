@@ -44,16 +44,13 @@ print(mcgb.self_presentation())
 
 ## Professional Knowledge 💾
 
-| Salesforce Dev | Salesforce Admin | 
-| :------------: | :--------------: |
-| Apex           | User Management  |
-| HTML           | Flow             |
-| CSS            |                  | 
-| Unit Test      |                  |
-| JavaScript     |                  |
-| SOQL           |                  |
-| SFDX           |                  |
-| LWC            |                  | 
+| Salesforce Dev | Salesforce Admin | Code           |
+| :------------: | :--------------: | :------------: |
+| Apex           | User Management  | Python         |
+| Unit Test      | Flow             | JavaScript     |
+| SOQL           |                  | HTML           |
+| SFDX           |                  | CSS            |
+| LWC            |                  |                |
 
 ## Be in Touch 📱
 
