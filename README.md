@@ -41,18 +41,19 @@ mcgb = Mcgb16()
 print(mcgb.self_presentation())
 
 ```
-## Knowledge 💾
 
-| General       | Salesforce    | 
-| :-----------: | :-----------: |
-| Python        | Apex          |
-| HTML          | Trigger       |
-| CSS           | LWC           | 
-| Unit Test     | Flow          |
-| JavaScript    | SFDX          |
-| SQL           | SOQL          |
-| Git           | Aura          | 
+## Professional Knowledge 💾
 
+| Salesforce Dev | Salesforce Admin | 
+| :------------: | :--------------: |
+| Apex           | User Management  |
+| HTML           | Flow             |
+| CSS            |                  | 
+| Unit Test      |                  |
+| JavaScript     |                  |
+| SOQL           |                  |
+| SFDX           |                  |
+| LWC            |                  | 
 
 ## Be in Touch 📱
 
