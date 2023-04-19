@@ -50,7 +50,7 @@ print(mcgb.self_presentation())
 | Unit Test      | Flow             | Service        | JavaScript        |
 | SOQL           | Lightning Apps   |                | HTML              |
 | SFDX           |                  |                | CSS               |
-| LWC            |                  |                | POO               |
+| LWC            |                  |                | OOP               |
 
 ## Be in Touch 📱
 
