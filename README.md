@@ -52,14 +52,24 @@ print(mcgb.self_presentation())
 | SFDX           | Reports          |                | CSS               |
 | LWC            | Dashboards       |                | OOP               |
 
-## Certifications 📔
+## Certifications ✅
 
 - Salesforce Associate - Salesforce
 - Scrum Foundation Professional Certificate - CertiProf
 
+## Projects 📼
+
+<a href="https://github.com/mcgb16/mini-game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mcgb16&repo=mini-game&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="mini-game" />
+</a>
+<a href="https://github.com/mcgb16/cryptography">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mcgb16&repo=cryptography&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="cryptography" />
+</a>
+
 ## Be in Touch 📱
 
-<div align="center">
-  <a href = "mailto:matheus.barrosc@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/matheus-correa16/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<div align="center" style="margin: 30px">
+  <a href = "mailto:matheus.barrosc@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-353535?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/matheus-correa16/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-353535?style=for-the-badge&logo=linkedin"></a>
+  <a href="trailblazer.me/id/matcorrea16" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Trailhead-353535?style=for-the-badge&logo=salesforce"></a>
 </div>
