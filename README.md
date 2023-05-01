@@ -49,8 +49,13 @@ print(mcgb.self_presentation())
 | Apex           | User Management  | Sales          | Python            |
 | Unit Test      | Flow             | Service        | JavaScript        |
 | SOQL           | Lightning Apps   |                | HTML              |
-| SFDX           |                  |                | CSS               |
-| LWC            |                  |                | OOP               |
+| SFDX           | Reports          |                | CSS               |
+| LWC            | Dashboards       |                | OOP               |
+
+## Certifications 📔
+
+- Salesforce Associate - Salesforce
+- Scrum Foundation Professional Certificate - CertiProf
 
 ## Be in Touch 📱
 
