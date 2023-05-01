@@ -71,5 +71,5 @@ print(mcgb.self_presentation())
 <div align="center" style="margin: 30px">
   <a href = "mailto:matheus.barrosc@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-353535?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/matheus-correa16/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-353535?style=for-the-badge&logo=linkedin"></a>
-  <a href="trailblazer.me/id/matcorrea16" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Trailhead-353535?style=for-the-badge&logo=salesforce"></a>
+  <a href="https://www.trailblazer.me/id/matcorrea16" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Trailhead-353535?style=for-the-badge&logo=salesforce"></a>
 </div>
