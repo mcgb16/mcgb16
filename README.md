@@ -44,13 +44,16 @@ print(mcgb.self_presentation())
 
 ## Professional Knowledge 💾
 
-| Salesforce Dev | Salesforce Admin | Clouds         | Another Knowledge |
-| :------------: | :--------------: | :------------: | :---------------: |
-| Apex           | User Management  | Sales          | Python            |
-| Unit Test      | Flow             | Service        | JavaScript        |
-| SOQL           | Lightning Apps   |                | HTML              |
-| SFDX           | Reports          |                | CSS               |
-| LWC            | Dashboards       |                | OOP               |
+| Salesforce Dev | Salesforce Functional | Clouds         | Another Knowledge |
+| :------------: | :-------------------: | :------------: | :---------------: |
+| Apex           | User Management       | Sales          | Python            |
+| Unit Test      | Flow                  | Service        | JavaScript        |
+| SOQL           | Lightning Apps        | Health         | HTML              |
+| SFDX           | Reports               |                | CSS               |
+| LWC            | Dashboards            |                | OOP               |
+| Triggers       | Validation Rules      |                | VSCode            |
+| Data Modeling  | Org Configuration     |                | Git               |
+|                |                       |                |                   |
 
 ## Certifications ✅
 
