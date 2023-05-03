@@ -52,8 +52,8 @@ print(mcgb.self_presentation())
 | SFDX           | Reports               |                | CSS               |
 | LWC            | Dashboards            |                | OOP               |
 | Triggers       | Validation Rules      |                | VSCode            |
-| Data Modeling  | Org Configuration     |                | Git               |
-|                |                       |                |                   |
+|                | Org Configuration     |                | Git               |
+|                |                       |                | Data Modeling     |
 
 ## Certifications ✅
 
