@@ -54,6 +54,7 @@ print(mcgb.self_presentation())
 | Triggers       | Validation Rules      |                | VSCode            |
 |                | Org Configuration     |                | Git               |
 |                |                       |                | Data Modeling     |
+|                |                       |                | Scrum             |
 
 ## Certifications ✅
 
