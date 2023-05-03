@@ -53,7 +53,7 @@ print(mcgb.self_presentation())
 | LWC            | Dashboards            |                | OOP               |
 | Triggers       | Validation Rules      |                | VSCode            |
 |                | Org Configuration     |                | Git               |
-|                |                       |                | Data Modeling     |
+|                | Low Code Automation   |                | Data Modeling     |
 |                |                       |                | Scrum             |
 
 ## Certifications ✅
