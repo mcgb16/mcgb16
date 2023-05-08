@@ -42,20 +42,6 @@ print(mcgb.self_presentation())
 
 ```
 
-## Professional Knowledge 💾
-
-| Salesforce Dev | Salesforce Functional | Clouds         | Another Knowledge |
-| :------------: | :-------------------: | :------------: | :---------------: |
-| Apex           | User Management       | Sales          | Python            |
-| Unit Test      | Flow                  | Service        | JavaScript        |
-| SOQL           | Lightning Apps        | Health         | HTML              |
-| SFDX           | Reports               |                | CSS               |
-| LWC            | Dashboards            |                | OOP               |
-| Triggers       | Validation Rules      |                | VSCode            |
-|                | Org Configuration     |                | Git               |
-|                | Low Code Automation   |                | Data Modeling     |
-|                | Org Security Control  |                | Scrum             |
-
 ## Certifications ✅
 
 - Salesforce Associate - Salesforce
