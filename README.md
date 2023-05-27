@@ -44,6 +44,7 @@ print(mcgb.self_presentation())
 
 ## Certifications ✅
 
+- Salesforce Administrator - Salesforce
 - Salesforce Associate - Salesforce
 - Scrum Foundation Professional Certificate - CertiProf
 
