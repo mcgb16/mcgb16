@@ -7,7 +7,7 @@ class Mcgb16():
     def __init__(self):
         self.__name = 'Matheus Corrêa'
         self.__year_born = '1999'
-        self.__hobbies = 'Games, Star Wars and Calisthenics'
+        self.__hobbies = 'Games, Star Wars, Cybersecurity and Calisthenics'
         self.__work = 'Salesforce Business Analyst at Globant'
 
     def __get_name(self):
