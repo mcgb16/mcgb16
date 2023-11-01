@@ -8,7 +8,7 @@ class Mcgb16():
         self.__name = 'Matheus Corrêa'
         self.__year_born = '1999'
         self.__hobbies = 'Games, Star Wars, Cybersecurity and Calisthenics'
-        self.__work = 'Salesforce Business Analyst at Globant'
+        self.__work = 'Salesforce Functional Analyst at Globant'
 
     def __get_name(self):
         return self.__name
@@ -50,9 +50,6 @@ print(mcgb.self_presentation())
 
 ## Projects 📼
 
-<a href="https://github.com/mcgb16/mini-game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mcgb16&repo=mini-game&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="mini-game" />
-</a>
 <a href="https://github.com/mcgb16/cryptography-project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mcgb16&repo=cryptography-project&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="cryptography" />
 </a>
