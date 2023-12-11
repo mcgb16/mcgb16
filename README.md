@@ -2,44 +2,46 @@
 
 ```python
 #!/usr/bin/python
-# -*- coding: utf-8 -*-
-class Mcgb16():
-    def __init__(self):
-        self.__name = 'Matheus Corrêa'
-        self.__year_born = '1999'
-        self.__hobbies = 'Games, Star Wars, Cybersecurity and Calisthenics'
-        self.__work = 'Salesforce Functional Analyst at Globant'
 
-    def __get_name(self):
-        return self.__name
+# I want you to know me
+about_me = {
+    'Name' : 'Matheus Corrêa',
+    'Yearborn' : '1999',
+    'Job' : 'Salesforce Functional Analyst at Globant',
+    'Study' : 'Already graduated as a System Developer Analyst',
+    'Hobbies' : 'Games, Calisthenics, Star Wars and study about life (and AI).'
+}
 
-    def __get_year_born(self):
-        return self.__year_born
+# My main Hard Skills
+hard_skills = [
+    'Python',
+    'MySQL',
+    'SQL',
+    'Git',
+    'Salesforce',
+    'HTML',
+    'CSS',
+    'VSCode'
+]
 
-    def __get_hobbies(self):
-        return self.__hobbies
+# My main Soft Skills
+soft_skills = [
+    'Leadership',
+    'Communication',
+    'Discipline',
+    'Organization',
+    'Team Work',
+    'Time Management'
+]
 
-    def __get_work(self):
-        return self.__work
-
-    def self_presentation(self):
-        name = self.__get_name()
-        year_born = self.__get_year_born()
-        hobbies = self.__get_hobbies()
-        work = self.__get_work()
-
-        about_me = f""""
-        Hi! My name is {name}, and I was born in {year_born}.
-        I'm currently working as a {work}.
-        Lastly, my main hobbies are: {hobbies}.
-        Thank you, have a great day!
-        """
-        return about_me
-
-mcgb = Mcgb16()
-
-print(mcgb.self_presentation())
-
+# Some funcionalities that I often Develop
+funcionalities = [
+    'Web Scraping',
+    'Automation (even with Selenium, even with personal scripts)',
+    'String Manipulation',
+    'GUI',
+    'Database Connections'
+]
 ```
 
 ## Certifications ✅
