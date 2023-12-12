@@ -3,7 +3,7 @@
 ```python
 #!/usr/bin/python
 
-# I want you to know me
+# I want you to know me.
 about_me = {
     'Name' : 'Matheus Corrêa',
     'Yearborn' : '1999',
@@ -12,7 +12,7 @@ about_me = {
     'Hobbies' : 'Games, Calisthenics, Star Wars and study about life (and AI).'
 }
 
-# My main Hard Skills
+# My main Hard Skills.
 hard_skills = [
     'Python',
     'MySQL',
@@ -24,7 +24,7 @@ hard_skills = [
     'VSCode'
 ]
 
-# My main Soft Skills
+# My main Soft Skills.
 soft_skills = [
     'Leadership',
     'Communication',
@@ -34,7 +34,7 @@ soft_skills = [
     'Time Management'
 ]
 
-# Some funcionalities that I often Develop
+# Some funcionalities that I often Develop.
 funcionalities = [
     'Web Scraping',
     'Automation (even with Selenium, even with personal scripts)',
@@ -42,13 +42,15 @@ funcionalities = [
     'GUI',
     'Database Connections'
 ]
+
+# My biggest achievements.
+achievements = {
+    'Certification': 'Salesforce Administrator - Salesforce',
+    'Certification': 'Salesforce Associate - Salesforce',
+    'Certification': 'Scrum Foundation Professional Certificate - CertiProf',
+    'Personal Achievement': 'Passed in two "military public exams" (here in Brazil we need to pass in some really hard exams to become military with high rank) being self taught.'
+}
 ```
-
-## Certifications ✅
-
-- Salesforce Administrator - Salesforce
-- Salesforce Associate - Salesforce
-- Scrum Foundation Professional Certificate - CertiProf
 
 ## Projects 📼
 
