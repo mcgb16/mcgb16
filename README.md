@@ -16,6 +16,7 @@ about_me = {
 hard_skills = [
     'Python',
     'MySQL',
+    'SQLite',
     'SQL',
     'Git',
     'Salesforce',
@@ -40,7 +41,8 @@ funcionalities = [
     'Automation (even with Selenium, even with personal scripts)',
     'String Manipulation',
     'GUI',
-    'Database Connections'
+    'Database Connections',
+    'Discord Bots'
 ]
 
 # My biggest achievements.
@@ -52,13 +54,13 @@ achievements = {
 }
 ```
 
-## Projects 📼
+## Finished Projects 📼
 
-<a href="https://github.com/mcgb16/cryptography-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mcgb16&repo=cryptography-project&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="cryptography" />
-</a>
 <a href="https://github.com/mcgb16/master-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mcgb16&repo=master-bot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="master-bot" />
+</a>
+<a href="https://github.com/mcgb16/cryptography-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mcgb16&repo=cryptography-project&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="cryptography" />
 </a>
 
 ## Be in Touch 📱
