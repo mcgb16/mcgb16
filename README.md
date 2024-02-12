@@ -38,11 +38,23 @@ soft_skills = [
 # Some funcionalities that I often Develop.
 funcionalities = [
     'Web Scraping',
-    'Automation (even with Selenium, even with personal scripts)',
+    'Automation',
     'String Manipulation',
     'GUI',
     'Database Connections',
     'Discord Bots'
+]
+
+# Some libraries that I often use.
+libraries = [
+    'BeautifulSoup4',
+    'Selenium',
+    'Random',
+    'Secrets',
+    'SQLite',
+    'Discord',
+    'MySQL',
+    'TKInter'
 ]
 
 # My biggest achievements.
