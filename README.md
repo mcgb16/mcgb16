@@ -54,7 +54,8 @@ libraries = [
     'SQLite',
     'Discord',
     'MySQL',
-    'TKInter'
+    'TKInter',
+    'OS'
 ]
 
 # My biggest achievements.
