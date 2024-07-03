@@ -22,7 +22,6 @@ hard_skills = [
     'Salesforce',
     'HTML',
     'CSS',
-    'Javascript',
     'VSCode'
 ]
 
