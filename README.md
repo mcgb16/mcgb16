@@ -7,7 +7,7 @@
 about_me = {
     'Name' : 'Matheus Corrêa',
     'Yearborn' : '1999',
-    'Job' : 'Salesforce Business Analyst at Globant | Data Analyst',
+    'Job' : 'Salesforce Business Analyst at Globant',
     'Study' : 'Already graduated as a System Developer Analyst',
     'Hobbies' : 'Games, Calisthenics, Star Wars and study about life (and AI).'
 }
