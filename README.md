@@ -7,7 +7,7 @@
 about_me = {
     'Name' : 'Matheus Corrêa',
     'Yearborn' : '1999',
-    'Job' : 'Salesforce Functional Analyst at Globant',
+    'Job' : 'Salesforce Business Analyst at Globant | Data Analyst',
     'Study' : 'Already graduated as a System Developer Analyst',
     'Hobbies' : 'Games, Calisthenics, Star Wars and study about life (and AI).'
 }
@@ -15,8 +15,6 @@ about_me = {
 # My main Hard Skills.
 hard_skills = [
     'Python',
-    'MySQL',
-    'SQLite',
     'SQL',
     'Git',
     'Salesforce',
@@ -41,6 +39,9 @@ funcionalities = [
     'Automation',
     'String Manipulation',
     'GUI',
+    'PDF Manipulation',
+    'CSV Manipulation',
+    'XLSX Manipulation',
     'Database Connections',
     'Discord Bots'
 ]
@@ -55,6 +56,7 @@ libraries = [
     'Discord',
     'MySQL',
     'TKInter',
+    'Pandas',
     'OS'
 ]
 
