@@ -43,7 +43,8 @@ funcionalities = [
     'CSV Manipulation',
     'XLSX Manipulation',
     'Database Connections',
-    'Discord Bots'
+    'Discord Bots',
+    'JSON Manipulation',
 ]
 
 # Some libraries that I often use.
@@ -57,7 +58,9 @@ libraries = [
     'MySQL',
     'TKInter',
     'Pandas',
-    'OS'
+    'OS',
+    'Openpyxl',
+    'JSON'
 ]
 
 # My biggest achievements.
