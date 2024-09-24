@@ -30,7 +30,13 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-## Finished Projects 📼
+## Biggest Project 📼
+
+<a href="https://github.com/mcgb16/lol-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mcgb16&repo=lol-stats&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="lol-stats" />
+</a>
+
+## Faves 🌟
 
 <a href="https://github.com/mcgb16/master-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mcgb16&repo=master-bot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="master-bot" />
